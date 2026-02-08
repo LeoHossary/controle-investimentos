@@ -1,4 +1,4 @@
-# Planilha de Controle de Investimentos
+# Planilha de Controle de Investimentos :bar_chart:
 
 Uma planilha funcional de controle de investimentos onde você pode indicar o quanto ganha e ter uma susgestão de como investir seu dinheiro, com previsões de dividendos e saldos futuros que você terá na sua conta de investimentos.
 
